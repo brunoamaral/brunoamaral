@@ -4,4 +4,6 @@ I'm a Communication Strategist with a knack for code, https://brunoamaral.eu/
 
 Would you like to play a game? https://cryptonovel.net
 
+<a rel="me" href="https://bsky.app/profile/brunoamaral.eu">bsky.app/profile/brunoamaral.eu</a>
+
 <a rel="me" href="https://mastodon.social/@brunoamaral">brunoamaral@Mastodon.social</a>
