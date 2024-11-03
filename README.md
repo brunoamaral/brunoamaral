@@ -1,8 +1,10 @@
 I'm a Communication Strategist with a knack for code, https://brunoamaral.eu/
 
-**Latest project**, a search engine that helps research Neurology and Multiple Sclerosis. https://gregory-ms.com/
+**Latest project**, an AI assistant to speed up medical research. https://gregory-ai.com/ 
 
-Would you like to play a game? https://brunoamaral.eu/story/crypto/
+[Use case for Multiple Sclerosis](https://gregory-ms.com/)
+
+Get in touch.
 
 <a rel="me" href="https://bsky.app/profile/brunoamaral.eu">bsky.app/profile/brunoamaral.eu</a>
 
